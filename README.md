@@ -1,0 +1,2 @@
+# pyeuler
+https://projecteuler.net/
